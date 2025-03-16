@@ -1,0 +1,15 @@
+black
+langchain-community
+langchain-core
+langchain-openai
+langgraph
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langsmith
+langgraph-cli[inmem]
+notebook
+python-dotenv
+ruff
+tavily-python
+trustcall
+wikipedia
