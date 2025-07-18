@@ -1,6 +1,8 @@
 # lang-suite
 A repository to work with the LangChain, LangGraph, LangSmith and that stack to develop AI Agents
 
+You can find the code here: https://github.com/langchain-ai/langchain-academy/tree/main
+
 # Module 2
 
 ## Topics
@@ -32,3 +34,10 @@ A repository to work with the LangChain, LangGraph, LangSmith and that stack to 
 * Chat models
 * Binding tools
 * executing tool calls
+
+### Agent
+
+* ReAct
+    * act
+    * observe
+    * reason
