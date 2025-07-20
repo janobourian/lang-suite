@@ -174,3 +174,6 @@ cython_debug/
 .pypirc
 .langgraph_api
 .DS_Store
+
+# VS Code settings
+.vscode/

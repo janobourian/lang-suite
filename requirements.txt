@@ -1,7 +1,9 @@
 black
+langchain
 langchain-community
 langchain-core
 langchain-openai
+langchainhub
 langgraph
 langgraph-sdk
 langgraph-checkpoint-sqlite
