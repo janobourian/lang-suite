@@ -4,7 +4,8 @@
       "simple_graph": "./practices/module-1/simplest_graph.py:graph",
       "chain_graph": "./practices/module-1/chain_graph.py:graph",
       "simpliest_router": "./practices/module-1/simplest_router.py:graph",
-      "complex_basic_graph": "./practices/module-1/complex_basic_graph.py:graph"
+      "complex_basic_graph": "./practices/module-1/complex_basic_graph.py:graph",
+      "chain_graph_review": "./practices/module-1/chain_graph_review.py:graph"
     },
     "env": ".env",
     "python_version": "3.11",
