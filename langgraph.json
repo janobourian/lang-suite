@@ -6,7 +6,8 @@
       "simpliest_router": "./practices/module-1/simplest_router.py:graph",
       "complex_basic_graph": "./practices/module-1/complex_basic_graph.py:graph",
       "chain_graph_review": "./practices/module-1/chain_graph_review.py:graph",
-      "router_graph": "./practices/module-1/router_graph.py:graph"
+      "router_graph": "./practices/module-1/router_graph.py:graph",
+      "agent_graph": "./practices/module-1/agent_graph.py:graph"
     },
     "env": ".env",
     "python_version": "3.11",
